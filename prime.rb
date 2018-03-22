@@ -3,7 +3,7 @@ def prime?(n)
     if (n % d) == 0
       return false
     end
-    if 1 > n 
+    if 1 > n
       return false
   end
   true
