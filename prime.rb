@@ -10,13 +10,4 @@ def prime?(n)
   end
 
 
-  if cond one
-    do this
-  else cond two
-      if this thing
-        do that
-       end
-   end
-  #if you make it here
-    return true
-   end
+  
