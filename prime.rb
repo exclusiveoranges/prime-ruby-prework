@@ -5,13 +5,19 @@ def prime?(n)
     (2..(n-1)).each do |d|
       if (n % d) == 0
       return false
-    end
-    end
-    else
+      end
+  else
       true
   end
 
 
-# def prime?(n)
-#   if n <= 1
-#     return false
+  if cond one
+    do this
+  else cond two
+      if this thing
+        do that
+       end
+   end
+  #if you make it here
+    return true
+   end
