@@ -5,8 +5,7 @@ def prime?(n)
     (2..(n-1)).each do |d|
       (n % d) == 0
       return false
-    else
-      true
-    end
   end
 end
+true
+end 
